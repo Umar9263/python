@@ -9,7 +9,7 @@
         # mathematics,
         # system scripting. (create a script or program for automate task )
 
-# ////////////////////////////
+# ////////////////////
 
 # What can Python do?
         # Python can be used on a server to create web applications.
