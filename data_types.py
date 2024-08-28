@@ -14,7 +14,7 @@
         Binary Types:	        bytes, bytearray, memoryview
         None Type:	        NoneType
 '''
-#//////////////////
+#///////////
 
 # Setting the Data Type:-
 
